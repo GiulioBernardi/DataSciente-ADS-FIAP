@@ -32,7 +32,6 @@ Para rodar o projeto localmente, é necessárioter o Python3 instalado, assim co
 Pode adicionar algum trecho de código, por exemplo para clonar esse repositório:
 
     cd /home/iot
-    git clone https://github.com/GiulioBernardi/AnalysisMachineLearningCp.git
+    git clone https://github.com/GiulioBernardi/DataSciente-ADS-FIAP.git
     cd templatenac
     ls
-
