@@ -3,9 +3,9 @@ Projetos acadêmicos que envovlvem Machine Learning, Análise de dados e conceit
 
 # Lista de projetos
 ***
-### 1. Material
+### 1. tds-checkpoint1
 
-Material é um aplicativo de celular onde o usuário seleciona o material desejado para uma obra. Após selecionar, o aplicativo informa qual foi o **preço do produto** de acordo com a **metragem quadrada**
+Nesse projeto eu utilizo tecnicas de análise de dados para poder compreender sobre o que se tratava a base de dados e utilizei modelos preditivos para responder perguntas sobre o preço dos apartamentos
 
 <p align="center">
 <img src="https://github.com/GiulioBernardi/fotos/blob/master/appMaterialMobile.gif">
